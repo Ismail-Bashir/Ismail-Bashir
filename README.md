@@ -19,13 +19,14 @@ I recently completed my degree in **Software Engineering** at the University of 
 ## 🛠️ Technical Stack
 
 ### **Low-Level & Performance**
-- **Languages**: C, C++, Assembly (x86), Rust (Learning)
+- **Languages**: python, C, c#, JavaScript,Java,C++, Assembly (x86), Rust (Learning)
 - **Expertise**: Custom Memory Allocators, Task Schedulers, Context Switching, Multithreading.
 
 ### **Enterprise & Cloud**
 - **Languages**: C#, Python, JavaScript (TypeScript)
 - **Frameworks**: .NET Core, Node.js, React
 - **Infrastructure**: Redis, SQL (PostgreSQL), Docker, Linux SysAdmin
+- **Cloud**: AWS, GCP
 
 ---
 
